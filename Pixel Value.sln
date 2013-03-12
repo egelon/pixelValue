@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pixel Value", "Pixel Value\Pixel Value.vcxproj", "{572B2C5C-AA1A-4EF8-9DD7-9D403E613DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{572B2C5C-AA1A-4EF8-9DD7-9D403E613DC9}.Debug|Win32.ActiveCfg = Release|Win32
+		{572B2C5C-AA1A-4EF8-9DD7-9D403E613DC9}.Debug|Win32.Build.0 = Release|Win32
+		{572B2C5C-AA1A-4EF8-9DD7-9D403E613DC9}.Release|Win32.ActiveCfg = Release|Win32
+		{572B2C5C-AA1A-4EF8-9DD7-9D403E613DC9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
